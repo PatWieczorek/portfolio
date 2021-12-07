@@ -1,3 +1,3 @@
 # portfolio
 
-List of my projects I'm the most proud of:
+List of projects I'm the most proud of
